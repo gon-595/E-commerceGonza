@@ -26,7 +26,7 @@ app.get('/api/products', (req, res) => {
     },
     { 
       id: 3, 
-      name: 'Disco-solido interno kingston sata-960g',  
+      name: 'Taza',  
       oldPrice: 18500, 
       price: 18000, 
       urlImg: 'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQwqHX1fVP2DUn6mEw05ukydZ6KOgkf0w3N3ZEHHJnDUW7WtxSEzdOZ73YxCn-FBC5kYxGeF4wy9zakpXVDOXbjQouNAmyH1LTbzkyuK2t0u9We1eAqfkFFDw&usqp=CAE' 
